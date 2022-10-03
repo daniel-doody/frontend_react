@@ -1,1 +1,4 @@
-export { default as Navbar } from "./Navbar/Navbar";
+import SocialMedia from "./SocialMedia";
+import Navbar from "./Navbar/Navbar";
+
+export { SocialMedia, Navbar };
